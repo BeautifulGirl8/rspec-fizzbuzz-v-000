@@ -1,4 +1,4 @@
-def fizzbuzz(int)
+learndef fizzbuzz(int)
 
   if int % 3 == 0 && int % 5 == 0
     "FizzBuzz"
@@ -15,6 +15,4 @@ def fizzbuzz(int)
 
   end
 end
-end
-end
-end
+ 
